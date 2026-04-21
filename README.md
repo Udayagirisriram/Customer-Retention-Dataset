@@ -8,7 +8,7 @@ Identify key factors affecting customer retention
 Build a predictive model to classify churned customers
 Provide business recommendations to reduce churn
 
-Dataset : 
+
 Dataset: Telco Customer Churn Dataset
 Source: Kaggle
 Contains customer demographic, service usage, and billing information
