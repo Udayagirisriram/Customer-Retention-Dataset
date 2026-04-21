@@ -9,15 +9,15 @@ Build a predictive model to classify churned customers
 Provide business recommendations to reduce churn
 
 
-Dataset: Telco Customer Churn Dataset
-Source: Kaggle
+Dataset : Telco Customer Churn Dataset
+Source : Kaggle
 Contains customer demographic, service usage, and billing information
 Key Features:
 Customer demographics (gender, senior citizen, dependents)
 Account information (tenure, contract type)
 Services used (internet, phone, etc.)
 Billing details (monthly charges, total charges)
-Target variable: Churn (Yes/No)
+Target variable : Churn (Yes/No)
 
 Tools & Technologies : 
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
